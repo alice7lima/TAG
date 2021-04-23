@@ -1,0 +1,126 @@
+Fundamentos_Teóricos_da_Computação
+1 
+CIC0002 4 0
+Introdução_aos_Sistemas_Computacionais
+1 
+CIC0003 4 1
+Algoritmos_e_Programação_de_Computadores
+4 
+CIC0004 6 2
+CIC0090 4 5
+CIC0229 4 6
+CIC0231 2 7
+Informática_e_Sociedade
+1
+CIC0142 2 3
+Cálculo_1
+4
+MAT0025 6 4
+MAT0026 6 8
+EST0023 4 12
+CIC0189 4 29
+Estrutura_de_Dados
+11
+CIC0090 4 5
+CIC0197 4 11
+CIC0124 4 15
+CIC0182 4 16
+CIC0199 4 18
+CIC0093 4 19
+CIC0135 4 22
+CIC0101 4 24
+CIC0104 4 25
+CIC0203 4 27
+CIC0189 4 29
+Circuitos_Lógicos
+1
+CIC0229 4 6
+Laboratório_de_Circuitos_Lógicos
+1
+CIC0231 2 7
+Cálculo_2
+2
+MAT0026 6 8
+MAT0053 4 14
+Introdução_a_Álgebra_Linear
+1
+MAT0031 4 9
+Organização_e_Arquitetura_de_Computadores
+3
+CIC0098 4 10
+CIC0202 4 23
+CIC0104 4 25
+Técnicas_de_Programação_1
+3
+CIC0197 4 11
+CIC0198 4 17
+CIC0105 4 21
+Probabilidade_e_Estatística
+2
+EST0023 4 12
+CIC0203 4 27
+Álgebra_1
+2
+MAT0034 4 13
+CIC0161 6 26
+Cálculo_Numérico
+1
+MAT0053 4 14
+Redes_de_Computadores
+2
+CIC0124 4 15
+CIC0201 4 30
+Lógica_Computacional_1
+1
+CIC0182 4 16
+Técnicas_de_Programação_2
+2
+CIC0198 4 17
+CIC0202 4 23
+Teoria_e_Aplicação_de_Grafos
+1
+CIC0199 4 18
+Linguagens_de_Programação
+2
+CIC0093 4 19
+CIC0204 4 31
+Banco_de_Dados
+1
+CIC0097 4 20
+Engenharia_de_Software
+1
+CIC0105 4 21
+Introdução_a_Inteligência_Artificial
+1 
+CIC0135 4 22
+Programação_Concorrente
+2 
+CIC0202 4 23
+CIC0205 4 28
+Sistemas_de_Informação
+1
+CIC0101 4 24
+Software_Básico
+2 
+CIC0104 4 25
+CIC0204 4 31
+Autômatos_e_Computabilidade
+2
+CIC0161 6 26
+CIC0204 4 31
+Computação_Experimental
+1
+CIC0203 4 27
+Fundamentos_de_Sistemas_Operacionais
+1 
+CIC0205 4 28
+Projeto_e_Análise_de_Algoritmos
+1
+CIC0189 4 29
+Segurança_Computacional
+1
+CIC0201 4 30
+Compiladores
+1
+CIC0204 4 31
+
